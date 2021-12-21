@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Sinan Aydın 
+Hi there 👋, I'm Sinan Aydın 
+
 I'm  Electrical and Electronics Engineer and Front-End Developer.Also Python Learner.
 I'm interested with being part of Web Tech.
 
