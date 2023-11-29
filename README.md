@@ -1,6 +1,6 @@
 Hi there 👋, I'm Sinan Aydın 
 
-I'm  Electrical Engineer and Back-End Developer.Also Java Learner.
+I'm  Electrical Engineer and Back-End Developer.
 I'm interested with being part of Web Tech.
 
 - 💬 Ask me about engineering, development
