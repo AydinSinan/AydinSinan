@@ -1,9 +1,8 @@
 Hi there 👋, I'm Sinan Aydın 
 
-I'm  Electrical Engineer and Front-End Developer.Also Python Learner.
+I'm  Electrical Engineer and Back-End Developer.Also Java Learner.
 I'm interested with being part of Web Tech.
 
-- 🌱 I’m currently learning Javascript, Python, React.js, Web3
 - 💬 Ask me about engineering, development
 - 📫 How to reach me:en.snnaydin@gmail.com
 
