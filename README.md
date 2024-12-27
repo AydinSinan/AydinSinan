@@ -4,7 +4,7 @@ I'm  Electrical Engineer and Back-End Developer.
 I'm interested with being part of Web Tech.
 
 - 💬 Ask me about engineering, development
-- 📫 How to reach me:en.snnaydin@gmail.com
+- 📫 How to reach me: en.snnaydin@gmail.com
 
 
 <!--
